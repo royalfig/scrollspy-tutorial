@@ -1,5 +1,5 @@
 import "./style.css";
 
-import sidebar from "./sidebar";
+import { idMap } from "./sidebar";
 
-sidebar();
+console.log(idMap);
